@@ -1,1 +1,7 @@
-/home/wawayu/dotfiles/git/gitconfig
+[user]
+	name = WAWAYU-AI
+	email = 1942896934@qq.com
+[http]
+	sslCAInfo = /home/wawayu/.local/share/Steam++/Plugins/Accelerator/SteamTools.Certificate.cer
+[credential]
+	helper = store
